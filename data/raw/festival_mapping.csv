@@ -1,0 +1,17 @@
+festival,recommended_fabrics,formality_level,cultural_context,description
+Wedding,"Silk,Velvet,Brocade,Satin,Organza,Georgette,Cashmere",Ultra-formal,Universal,Grand wedding ceremonies and receptions
+Diwali,"Silk,Khadi,Brocade,Satin,Velvet,Georgette",Formal,Indian,Festival of lights celebration
+Eid,"Silk,Chiffon,Georgette,Cotton,Satin,Crepe",Formal,Indian,Islamic festival celebration
+Christmas,"Velvet,Silk,Satin,Wool,Cashmere,Brocade",Semi-formal,Western,Christmas celebration and parties
+Holi,"Cotton,Polyester,Khadi,Denim",Casual,Indian,Festival of colors - needs washable fabrics
+Pongal,"Silk,Cotton,Khadi",Formal,Indian,South Indian harvest festival
+Onam,"Cotton,Silk,Khadi,Muslin",Formal,Indian,Kerala harvest festival
+Durga Puja,"Silk,Georgette,Chiffon,Satin,Cotton",Formal,Indian,Bengali festival celebration
+Navratri,"Cotton,Silk,Georgette,Chiffon,Crepe",Semi-formal,Indian,Nine nights of dance and celebration
+New Year,"Silk,Satin,Velvet,Georgette,Crepe,Lycra",Semi-formal,Universal,New Year's Eve party celebrations
+Casual Outing,"Cotton,Denim,Linen,Khadi,Modal,Bamboo,Rayon",Casual,Universal,Everyday casual outings and hangouts
+Office Event,"Cotton,Linen,Polyester,Crepe,Modal",Semi-formal,Universal,Corporate events and office gatherings
+Interview,"Cotton,Linen,Polyester,Crepe",Formal,Universal,Job interviews and professional meetings
+Graduation,"Cotton,Silk,Polyester,Crepe,Satin",Semi-formal,Universal,Graduation ceremonies and convocations
+Date Night,"Silk,Satin,Velvet,Chiffon,Crepe,Georgette,Lycra",Semi-formal,Universal,Romantic dinner or evening out
+None,"Cotton,Polyester,Denim,Linen,Modal,Bamboo,Khadi",Casual,Universal,No special occasion - everyday wear

@@ -1,0 +1,6 @@
+weather,temp_range,humidity_range,description,recommended_fabrics,avoid_fabrics,priority_properties
+summer,30-45°C,20-50%,Hot and dry summer conditions,"Cotton,Linen,Muslin,Khadi,Bamboo,Rayon,Chiffon,Georgette,Modal,Tencel","Wool,Velvet,Fleece,Tweed,Corduroy,Cashmere,Acrylic","breathability,comfort"
+winter,0-15°C,30-60%,Cold winter conditions,"Wool,Velvet,Fleece,Tweed,Cashmere,Corduroy,Denim,Acrylic,Silk,Brocade","Chiffon,Muslin,Linen,Georgette","warmth,durability"
+rainy,20-30°C,70-95%,Monsoon and rainy season conditions,"Polyester,Nylon,Lycra,Spandex,Denim","Silk,Velvet,Cashmere,Wool,Jute,Brocade","durability,moisture_wicking"
+humid,25-35°C,60-85%,Hot and humid tropical conditions,"Cotton,Linen,Bamboo,Modal,Tencel,Muslin,Rayon,Chiffon,Georgette","Wool,Velvet,Fleece,Acrylic,Tweed,Corduroy","breathability,moisture_wicking"
+autumn,15-25°C,40-65%,Mild autumn/spring transitional weather,"Cotton,Denim,Corduroy,Tweed,Khadi,Fleece,Velvet,Wool,Acrylic","Chiffon,Organza","comfort,durability"

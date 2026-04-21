@@ -1,0 +1,13 @@
+purpose,recommended_fabrics,priority_factor,activity_level,description
+Daily Wear,"Cotton,Linen,Denim,Khadi,Modal,Bamboo,Rayon,Polyester",comfort,Low,Everyday regular clothing for routine activities
+Office,"Cotton,Linen,Polyester,Crepe,Modal,Tencel",comfort,Low,Professional workplace attire
+Sports,"Polyester,Nylon,Lycra,Spandex,Bamboo",durability,High,Athletic and sports activities
+Travel,"Cotton,Polyester,Nylon,Denim,Modal,Tencel,Lycra",durability,Medium,Travel and journey clothing
+Loungewear,"Cotton,Bamboo,Modal,Fleece,Muslin,Tencel",comfort,Low,"Relaxing at home, sleeping, casual comfort"
+Party,"Silk,Satin,Velvet,Georgette,Chiffon,Crepe,Lycra,Organza",style,Medium,Party and nightlife clothing
+Outdoor,"Nylon,Polyester,Denim,Hemp,Cotton,Lycra",durability,High,"Outdoor activities, hiking, camping"
+Work/Labor,"Denim,Cotton,Hemp,Polyester,Nylon,Khadi",durability,High,Physical labor and manual work
+Ethnic Wear,"Silk,Cotton,Khadi,Georgette,Chiffon,Brocade,Satin,Velvet,Organza",style,Low,Traditional and ethnic clothing
+Formal,"Cotton,Linen,Silk,Polyester,Crepe,Satin",style,Low,"Formal events, meetings, business"
+Beach,"Cotton,Linen,Rayon,Chiffon,Nylon,Lycra",breathability,Medium,Beachwear and poolside clothing
+Yoga/Meditation,"Cotton,Bamboo,Modal,Lycra,Spandex,Tencel",comfort,Medium,"Yoga, meditation, and mindful exercise"
