@@ -155,3 +155,4 @@ curl -X POST http://localhost:8000/api/recommend \
 - **AI**: Google Gemini API
 - **Frontend**: HTML5, CSS3, Vanilla JavaScript
 - **Design**: Glassmorphism, Dark mode, Animated gradients
+
